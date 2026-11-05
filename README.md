@@ -1,5 +1,3 @@
-### Ahoj, jsem Jan 👋
-
 **Head of IT ve skupině RM Gastro** · České Budějovice
 
 Přes 20 let v IT – od mechatroniky a full-stack vývoje přes správu 24/7 infrastruktury až po návrh databázových a ERP řešení. Věřím na stabilní systémy, přesná data a automatizaci, která firmě reálně šetří čas i peníze.
