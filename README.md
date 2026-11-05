@@ -5,7 +5,7 @@
 Přes 20 let v IT – od mechatroniky a full-stack vývoje přes správu 24/7 infrastruktury až po návrh databázových a ERP řešení. Věřím na stabilní systémy, přesná data a automatizaci, která firmě reálně šetří čas i peníze.
 
 #### Čemu se věnuji
-- **Podnikové systémy** – architektura a rozvoj ERP (K2, Helios), MES a WMS, integrace s Odoo
+- **Podnikové systémy** – architektura a rozvoj ERP K2, MES a WMS, integrace.
 - **Data & BI** – MS SQL Server, T-SQL, SSIS, SSRS, Power BI, datové modelování
 - **Infrastruktura & bezpečnost** – Windows Server, Active Directory, Hyper-V, hybridní a cloudová prostředí
 - **Vývoj** – PHP, Python, C#, Object Pascal, JavaScript, interní webové aplikace a automatizace
